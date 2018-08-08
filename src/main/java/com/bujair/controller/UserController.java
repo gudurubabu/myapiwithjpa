@@ -26,7 +26,7 @@ import com.bujair.model.UserInfo;
  *
  */
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/apijpa")
 public class UserController {
 
 	private static final String SUCCESS = "SUCCESS";
